@@ -185,13 +185,6 @@ footer {
     text-align: center;
   }
 
-  /*.background-section-two {
-    background-image: url(assets/bg2.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-  }*/
-
   .card-container {
     background: #fff;
     border-radius: 20px;
