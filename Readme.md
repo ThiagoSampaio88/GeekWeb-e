@@ -6,4 +6,4 @@ As revistas aqui mostradas são apenas para uso próprio(leitura), sem nenhum fi
 Caso haja erros ou alguma prática imprópria, por favor ajude-me a evoluir e deixe um feedback.
 
 
-rato!
+Grato!
